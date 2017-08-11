@@ -3,9 +3,13 @@
  *
  * By Hakim El Hattab, http://hakim.se
  */
-@import url(../../lib/font/source-sans-pro/source-sans-pro.css);
+@import url(../../lib/font/glass-antiqua/glass-antiqua.css);
+@import url(../../lib/font/montserrat/montserrat.css);
 section.has-dark-background, section.has-dark-background h1, section.has-dark-background h2, section.has-dark-background h3, section.has-dark-background h4, section.has-dark-background h5, section.has-dark-background h6 {
   color: #fff; }
+
+section ul {
+  list-style-image: url(../../img/bullet.png); }
 
 /*********************************************
  * GLOBAL STYLES
@@ -15,10 +19,10 @@ body {
   background-color: #fff; }
 
 .reveal {
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-size: 42px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 30px;
   font-weight: normal;
-  color: #222; }
+  color: #575756; }
 
 ::selection {
   color: #fff;
@@ -46,9 +50,9 @@ body {
 .reveal h5,
 .reveal h6 {
   margin: 0 0 20px 0;
-  color: #222;
-  font-family: "Source Sans Pro", Helvetica, sans-serif;
-  font-weight: 600;
+  color: #4C697D;
+  font-family: "Glass Antiqua", Helvetica, sans-serif;
+  font-weight: 100;
   line-height: 1.2;
   letter-spacing: normal;
   text-transform: uppercase;
@@ -232,7 +236,7 @@ body {
 .reveal section img {
   margin: 15px 0px;
   background: rgba(255, 255, 255, 0.12);
-  border: 4px solid #222;
+  border: 4px solid #575756;
   box-shadow: 0 0 10px rgba(0, 0, 0, 0.15); }
 
 .reveal section img.plain {
