@@ -1,58 +1,100 @@
 <!doctype html>
 <html>
-	<head>
-		<meta charset="utf-8">
-		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
 
-		<title>reveal.js</title>
+    <title>reveal.js</title>
 
-		<link rel="stylesheet" href="css/reveal.css">
-		<link rel="stylesheet" href="css/theme/drupalcon.css">
+    <link rel="stylesheet" href="css/reveal.css">
+    <link rel="stylesheet" href="css/theme/drupalcon.css">
 
-		<!-- Theme used for syntax highlighting of code -->
-		<link rel="stylesheet" href="lib/css/zenburn.css">
+    <!-- Theme used for syntax highlighting of code -->
+    <link rel="stylesheet" href="lib/css/zenburn.css">
 
-		<!-- Printing and PDF exports -->
-		<script>
-			var link = document.createElement( 'link' );
-			link.rel = 'stylesheet';
-			link.type = 'text/css';
-			link.href = window.location.search.match( /print-pdf/gi ) ? 'css/print/pdf.css' : 'css/print/paper.css';
-			document.getElementsByTagName( 'head' )[0].appendChild( link );
-		</script>
-	</head>
-	<body>
-    <div class="reveal">
-        <div class="slides" >
-            <section  data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%">
-                <h2>Five Questions</h2>
+    <!-- Printing and PDF exports -->
+    <script>
+      var link = document.createElement('link');
+      link.rel = 'stylesheet';
+      link.type = 'text/css';
+      link.href = window.location.search.match(/print-pdf/gi) ? 'css/print/pdf.css' : 'css/print/paper.css';
+      document.getElementsByTagName('head')[0].appendChild(link);
+    </script>
+</head>
+<body>
+<div class="reveal">
 
-            </section>
-            <section data-background-image="img/title.jpg" data-background-size="100% 100%"></section>
-            <section data-background-image="img/bg.jpg" data-background-size="100% 100%"></section>
-            <section data-background-image="img/bg.jpg" data-background-size="100% 100%">Slide 2
-                <aside class="notes">
-                    Oh hey, these are some notes. They'll be hidden in your presentation, but you can see them if you open the speaker notes window (hit 's' on your keyboard).
-                </aside>
-            </section>
-        </div>
+    <div class="slides">
+        <section data-markdown="content.md"
+                 data-separator="---"
+                 data-separator-vertical="^\n\n"
+                 data-charset="iso-8859-15"
+                 data-background-image="img/bg.jpg"
+                 data-background-size="100% 100%">
+        </section>
+
+        <section data-background-image="img/title.jpg" data-background-size="100% 100%">
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <p>&nbsp;</p>
+            <h3>Building Efficiencies into Your Drupal Practice</h3>
+            <p>Scott Weston</p>
+        </section>
+        <section data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%">
+            <h2>Welcome!</h2>
+        </section>
+        <section data-background-image="img/bg.jpg" data-background-size="100% 100%"><h2>I'm Scott</h2>
+            [INTRO SLIDE]
+        </section>
+
+        <section data-background-image="img/bg.jpg" data-background-size="100% 100%">
+            <h3>Today I want to talk about how to make your Drupal practice more efficient.</h3>
+        </section>
+
+        <section data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%">
+            <h2>Five Questions</h2>
+            <p>&nbsp;</p>
+            <ul>
+                <li>What types of skills make up a lean and efficient Drupal team?</li>
+                <li>What processes do good Drupal teams have in place to help them build solutions faster?</li>
+                <li>What kind of limitations do smart project leaders put on their clients?</li>
+                <li>What are some practical ways that a Drupal team can increase productivity?</li>
+                <li>How can a Drupal team stay motivated and engaged without experiencing burnout?</li>
+            </ul>
+        </section>
+
+
+
+
     </div>
+</div>
 
-		<script src="lib/js/head.min.js"></script>
-		<script src="js/reveal.js"></script>
+<script src="lib/js/head.min.js"></script>
+<script src="js/reveal.js"></script>
 
-		<script>
-			// More info about config & dependencies:
-			// - https://github.com/hakimel/reveal.js#configuration
-			// - https://github.com/hakimel/reveal.js#dependencies
-			Reveal.initialize({
-				dependencies: [
-					{ src: 'plugin/markdown/marked.js' },
-					{ src: 'plugin/markdown/markdown.js' },
-					{ src: 'plugin/notes/notes.js', async: true },
-					{ src: 'plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } }
-				]
-			});
-		</script>
-	</body>
+<script>
+  // More info about config & dependencies:
+  // - https://github.com/hakimel/reveal.js#configuration
+  // - https://github.com/hakimel/reveal.js#dependencies
+  Reveal.initialize({
+    // Display a presentation progress bar
+    progress: true,
+    // Transition style
+    transition: 'fade', // none/fade/slide/convex/concave/zoom
+    dependencies: [
+      {src: 'plugin/markdown/marked.js'},
+      {src: 'plugin/markdown/markdown.js'},
+      {src: 'plugin/notes/notes.js', async: true},
+      {
+        src: 'plugin/highlight/highlight.js', async: true, callback: function () {
+        hljs.initHighlightingOnLoad();
+      }
+      }
+    ]
+  });
+</script>
+</body>
 </html>

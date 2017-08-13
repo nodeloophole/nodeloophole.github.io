@@ -45,6 +45,12 @@ section.has-dark-background {
 	}
 }
 
+section {
+  h5 {
+    text-decoration: underline;
+  }
+}
+
 section ul {
   list-style-image: url(../../img/bullet.png);
 }
