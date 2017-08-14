@@ -4,7 +4,7 @@
 ---
 # Four Questions
 
-- What types of skills make up am efficient Drupal team?
+- What types of skills make up an efficient Drupal team?
 - What are some practical ways that a Drupal team can increase productivity?
 - How can a Drupal team stay motivated and engaged without experiencing burnout?
 - How can project managers help with efficiency?
@@ -45,6 +45,12 @@ your team is working at peak efficiency.
 ## Communication
 * Can articulate ideas, thoughts, problems, etc.
 * Not afraid to speak up.
+* Listening and understanding
+* Uses the correct 'voice' for the audience.
+
+note:
+Voice/tone/word choice varies based on the audience. For example, someone should speak at a technical
+level when dealing with other developers. Potentially less technical when dealing with clients.
 
 ---
 ##### Soft Skills
@@ -143,7 +149,7 @@ Speaking the same language is critical for efficiency in your team.
 ---
 ##### Increasing efficiency
 
-# Before starting to build
+## Before starting to build
 
 * Plan
     - Resolve as many unanswered questions as possible.
@@ -388,7 +394,7 @@ a major impact.  Example: Auto-sort vs custom sort.
 
 Reign in ambitious developers
 
-* Developers sometimes advocate for scope creem
+* Developers sometimes advocate for scope creep
    - "We could do it this other way"
    - Want to try something new
   
@@ -396,6 +402,17 @@ note:
 Developers can get excited in wanting to try new things or approaching things in 
 different ways. At times that's good. At other times, staying the course is the 
 most beneficial to the project. 
+
+---
+##### Project management helps efficiency
+ 
+Tease out when a developer is having problems
+
+* Have an understanding of how long a task should take
+* Use stand-ups / status meeting to uncover delays
+ - Need help?
+ - Spinning wheels
+ - Other interference / distractions
 
 ---
 # some clever summary
