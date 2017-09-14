@@ -110,7 +110,7 @@ level when dealing with other developers. Potentially less technical when dealin
 ##### Assess your Drupal team
 
 ## Skills Assessment
-* Be honest - internal only
+* Be honest - internal use only
 * Identify your team's strengths and weaknesses
 * Courses, certifications, awards, etc.
 
@@ -124,14 +124,19 @@ level when dealing with other developers. Potentially less technical when dealin
 * Types of clients
 
 ---
+<!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
+
 # Increasing efficiency in your Drupal team
 
 ---
-But first, what is NOT 
 
-It's not the same as Productivity (producing more)
-Efficiency is about wasting less
-[Need more stuff here]
+# Efficiency != Productivity
+
+Productivity = measure of units produced.
+Efficiency = amount of resources used and waste created.
+
+When there is less waste, capacity to produce more increases.
+
 ---
 ##### Increasing efficiency
 
@@ -308,7 +313,7 @@ I recommend fixing bugs immediately. Other work currently being built may incorp
 ---
 ##### Keep the team motivated
 
-Strive for daily productivity
+Strive for daily production
 
 
 ---
@@ -345,6 +350,16 @@ Explain the "Why"
 
 Don't micro-manage
 
+note:
+Even if a PM has technical abilities, its really important to let the team architect things 
+and make collective decisions.  Often times a PM that is somewhat technical will try to tell 
+developers how to do something, which shoots themselves in the foot in 2 ways:  
+1) It might not be the best way to do something.  
+2) Morale.  
+
+No experienced dev wants to be micromanaged like that... 
+could lead to them disliking the PM and not working as efficiently.
+
 ---
 ##### Keep the team motivated
 
@@ -379,15 +394,19 @@ If you need leverage to get sign-off...use this if possible
 --- 
 ##### Project management helps efficiency
 
-Avoid un-scoped work
+Avoid un-scoped/free work
 
-* Client changes their mind
-* A tweak may have unintended consequences
+* Client changes their mind? Track it.
+* A tweak here and there may have unintended consequences
 * Ambiguity in scope/contract/assumptions
 
 note:  These things can have an impact on efficiency and team motivation.  When a change is 
 requested, even if it seems minor, let a developer weigh in. Something seemingly simple can have
 a major impact.  Example: Auto-sort vs custom sort.
+
+There isn’t necessarily a need to AVOID un-scoped work altogether… instead, scope changes/additions 
+need to be managed properly.  Expectations need to be set immediately when the PM senses scope change 
+(some else has to be removed or rough equivalence OR we need more time/money to make the change).
 
 ---
 ##### Project management helps efficiency
@@ -413,6 +432,25 @@ Tease out when a developer is having problems
  - Need help?
  - Spinning wheels
  - Other interference / distractions
+
+---
+##### Project management helps efficiency
+
+Transparency with the whole team
+
+* Don't shield the team from the numbers 
+* Not all devs need to be "behind a wall"
+
+
+---
+##### Project management helps efficiency
+
+Let developers show off their work
+
+* Let developers do demos of their work to the clients/stakeholders
+ - Builds ownership within the team
+ - Builds stronger rapport with the client
+ - Direct feedback/conversation can spur discussion and new ideas
 
 ---
 # some clever summary
