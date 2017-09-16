@@ -19,7 +19,7 @@
 ## The basics
 
 note: this is obvious, so i'm not going to dwell on the basics. 
-These are the must-have skills for a someone to contribute to your team 
+These are the must-have skills for a someone to contribute to your team .
 
 ---
 ##### The Basics
@@ -44,9 +44,9 @@ your team is working at peak efficiency.
 
 ## Communication
 * Can articulate ideas, thoughts, problems, etc.
-* Not afraid to speak up.
+* Not afraid to speak up
 * Listening and understanding
-* Uses the correct 'voice' for the audience.
+* Uses the correct 'voice' for the audience
 
 note:
 Voice/tone/word choice varies based on the audience. For example, someone should speak at a technical
@@ -57,7 +57,7 @@ level when dealing with other developers. Potentially less technical when dealin
 
 ## Bias toward action
 * Eager to solve problems
-* Discussion/research versus action.
+* Discussion/research versus action
 
 ---
 ##### Soft Skills
@@ -132,10 +132,10 @@ level when dealing with other developers. Potentially less technical when dealin
 
 # Efficiency != Productivity
 
-Productivity = measure of units produced.
-Efficiency = amount of resources used and waste created.
+* Productivity = measure of units produced
+* Efficiency = amount of resources used and waste created
 
-When there is less waste, capacity to produce more increases.
+When there is less waste, there is more capacity to produce.
 
 ---
 ##### Increasing efficiency
@@ -144,9 +144,9 @@ When there is less waste, capacity to produce more increases.
 
 * Agree on the work to be done
     - All on the same page
+    - Have a common nomenclature for items
     - What is in scope?
     - What does done look like?
-    - Have a common nomenclature for items
     
     
 note:
@@ -157,13 +157,15 @@ Speaking the same language is critical for efficiency in your team.
 ## Before starting to build
 
 * Plan
-    - Resolve as many unanswered questions as possible.
-    - Content model, roles and permissions.
-    - Know what Drupal modules to use.
-    - Use the right frameworks for the work to be done.
+    - Resolve as many unanswered questions as possible
+    - Content model, roles and permissions
+    - Know what Drupal modules to use
+    - Use the right frameworks for the work to be done
 
 note: 
-Plan the route before starting your journey. For the build out of a Drupal site, this
+Plan the route before starting your journey. For the build out of a Drupal site, this can include
+panning out content types, taxonomy vocabularies, modules to use, modules to build, roles and 
+permissions, etc. 
  
 ---
 ##### Increasing efficiency
@@ -274,7 +276,7 @@ Example:  configuration management or event subscribers, others can benefit from
 * Leverage the knowledge you have
 * Custom code snippets/scaffolding
 
-note: How different are hero carousels , really? 
+note: How different are hero carousels, really? 
 
 ---
 ##### Increasing efficiency
@@ -299,6 +301,9 @@ note: How different are hero carousels , really?
 
 ## Fix bugs immediately
 
+* Building on top of bugs, causes more bugs
+* Fix bugs before you have an infestation
+
 note:
 I recommend fixing bugs immediately. Other work currently being built may incorporate the bug and 
  break when the bug is fixed.
@@ -321,7 +326,7 @@ Strive for daily production
 
 Don't allow all-nighters
 
-* While initially productive, can be inefficient.
+* While initially productive, it can be inefficient
  - Increased stress
  - More mistakes/bugs
  - Not sustainable
@@ -396,7 +401,7 @@ If you need leverage to get sign-off...use this if possible
 
 Avoid un-scoped/free work
 
-* Client changes their mind? Track it.
+* Client changes their mind? Track it
 * A tweak here and there may have unintended consequences
 * Ambiguity in scope/contract/assumptions
 
