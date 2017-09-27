@@ -9,6 +9,9 @@
 - How can a Drupal team stay motivated and engaged without experiencing burnout?
 - How can project managers help with efficiency?
 
+note:
+A lot of the concepts described in this presentation address more than one question.
+
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
 
@@ -18,25 +21,29 @@
 
 ## The basics
 
-note: this is obvious, so i'm not going to dwell on the basics. 
-These are the must-have skills for a someone to contribute to your team .
-
 ---
 ##### The Basics
 ## Direct Skills
-Drupal, PHP, CSS, JS, Symfony
+Drupal, PHP, CSS, JS, Symfony, Git
+
+note:
+These are pretty straight-forward. These are any key skills that are required for the job. 
 
 ---
 ##### The Basics
 
 ## Related Skills
-Frameworks, DevOps, Git, etc.
+Frameworks, DevOps/server management, Search, etc.
+
+note:
+Anything not directly required, but helpful or nice-to-have skills.
 
 ---
 ## Soft Skills
 
-note: These skills are sometimes overlooked or seen as not required.  I say that these are
-sometimes just as important as the basic skills. These skills help make sure
+note: 
+Soft skills are those which aren't objectively measured. These skills are sometimes overlooked or seen as not required.  
+I say that these are sometimes just as important as the basic skills. These skills help make sure
 your team is working at peak efficiency.
 
 ---
@@ -59,6 +66,9 @@ level when dealing with other developers. Potentially less technical when dealin
 * Eager to solve problems
 * Discussion/research versus action
 
+note:
+Does someone want to get their hands dirty and solve problems? 
+
 ---
 ##### Soft Skills
 
@@ -66,6 +76,11 @@ level when dealing with other developers. Potentially less technical when dealin
 * Growing knowledge and experience to learn at a higher level
 * Proactive vs reactionary
 * Recognizing "I could have done better" and learning how for next time
+
+note:
+Someone who is constantly striving to learn more about their craft is better prepared to identify potential problems
+before they become real problems. This proactive response to situations helps minimize re-work down the road when
+reacting to problems.
 
 ---
 ##### Soft Skills
@@ -75,29 +90,50 @@ level when dealing with other developers. Potentially less technical when dealin
 * Openly shares knowledge with others
 * Knows others' areas for improvement, offers help
 
+note:
+Someone that recognizes the value of sharing information with others is an asset to your team. They know that doing so
+elevates all team members which makes your team more knowledgeable and more efficient.
 ---
 ##### Soft Skills
 
 ## Taking Ownership
+
 * Taking ownership of a task or challenge
 * Finding resources to solve problems
   - People
   - Information
   - Technologies
   
+note:
+Someone that takes ownership knows their responsibility to see a task through to completion. If they don't have the 
+necessary resources, they find them. As a project manager or another team member, you should have confidence that a
+developer will take the task and see it through. Of course if there are blockers, they note those and solve the ones
+that can be easily unblocked.
+
 ---
 ##### Soft Skills
 
-## Focus
+## Ability to Focus
 * Spend effort on right priority at the right time
 * Saying 'No' or 'Not now' to requests
 * Push away distractions
+
+note:
+A developer should be able to know where their focus should be at any given time. This is particularly useful when a 
+developer is on multiple projects...Knowing the most important thing to work on is critical. Part of focus is the ability
+to say "no" or "not right now" to incoming requests that get in the way. Also, pushing away distractions like social
+media,  or other things that take away from time-on-task is a component of keeping focused. 
 
 ---
 ##### Soft Skills
 
 * Look for examples of these when interviewing candidates
 * Look for opportunities to encourage and strengthen these in current team members
+
+note:
+When interviewing applicants for a job opening, ask questions that will help uncover some of these skills. For example:
+"Assume that I'm not a technical person for a moment. Give me a quick overview of how Views work." Also, when you find 
+examples of current team members who are demonstrating these qualities and highlight them for your team to see.
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -110,6 +146,9 @@ level when dealing with other developers. Potentially less technical when dealin
 * Be honest - internal use only
 * Identify your team's strengths and weaknesses
 
+note:
+This is an opportunity for you have a good baseline measure of where your team stands. It's important to be honest about 
+this. It should be for internal use only.  It will let you know where your team's strengths and weaknesses are.
 ---
 ##### Assess your Drupal team
 
@@ -120,6 +159,8 @@ level when dealing with other developers. Potentially less technical when dealin
 * Courses, certifications, awards, etc.
 
 note:
+The first part is a good assessment of everyone's technical capabilities. 
+
 When assessing Drupal skills, get specific -- More than just backend / frontend for D7 or D8. Ask questions like:
 Do they have knowledge with field formatters, with creating twig templates, with configuration management, with writing 
 event subscribers, with the render array, etc.
@@ -147,9 +188,11 @@ for your organization when going after new deals or trying to find the right peo
 
 * Find ways to improve
 * Know what type of work to go for
-* Know who's a rockstar
 * Create a roadmap and work it
 
+note:
+It's important to take action based on the findings of your skills assessment. After you find ways to improve, know what 
+type of work to go for, and create your roadmap for leveling-up, work the plan.
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -175,8 +218,6 @@ When there is less waste, there is more capacity to produce.
     - What does done look like?
     - Have a common nomenclature for items
     
-note:
-Speaking the same language is critical for efficiency in your team. 
 ---
 ##### Increasing efficiency
 
@@ -184,7 +225,7 @@ Speaking the same language is critical for efficiency in your team.
 
 * Plan
     - Resolve as many unanswered questions as possible
-    - Content model, roles and permissions
+    - Content model, roles and permissions (palantir.net template: https://goo.gl/1sSs8h)
     - Know what Drupal modules to use
     - Use the right technologies for the work to be done
 
@@ -192,24 +233,26 @@ note:
 Plan the route before starting your journey. For the build out of a Drupal site, this can include
 planning out content types, taxonomy vocabularies, modules to use, modules to build, roles and 
 permissions, etc. 
- 
+Palantir.net has template for a build specification that can be used or customized for your organization. This is Drupal 7,
+but can be adapted for D8 (https://docs.google.com/spreadsheets/d/15htLLWLguhwiuTLg_nndQNpgWVdUMy6UaR_d1q-v6iw/edit#gid=0) from
+ blog post: https://www.palantir.net/blog/developing-drupal-sites-plan-or-perish.
 ---
 ##### Increasing efficiency
 
-## Standard tools for all
+## Standard tools and processes
  
  * Standardize the toolkit 
-  - IDE
-  - Development
+  - Computers, IDE, other software, etc.
+  - Development environment
   - Project/Task management process
-  
   
 note: 
 Greater efficiency can be achieved if everyone is using the same tools. 
 
 This goes back to being on the same page. 
 
-And this not on a per-project basis, but across projects. If you can lower the amount of ramp-up time spent on a project, or on task switching time, you can be more efficient.
+And this not on a per-project basis, but across projects. If you can lower the amount of ramp-up time spent on a project, 
+or on task switching time, you can be more efficient.
 
 ---
 ##### Increasing efficiency
@@ -217,10 +260,8 @@ And this not on a per-project basis, but across projects. If you can lower the a
 ## Have a common starting point
 
 * Base Drupal installation profile
-* Features for everyone
 * Custom code snippets/scaffolding
 * This is your secret recipe
-
 
 ---
 ##### Increasing efficiency
@@ -229,18 +270,10 @@ And this not on a per-project basis, but across projects. If you can lower the a
 
 * Avoid doing things totally different each time
 * Leverage the knowledge you have
-* Custom code snippets/scaffolding
 
-note: How different are hero carousels, really? 
-
----
-##### Increasing efficiency
-
-## Productize your solutions
-
-* Where possible, have pre-build solutions for a fixed price
-* Use that as a base and enhance per customer requirements
-* Caveat: Be aware of contractual issues
+note:
+If you do a lot of work for law firms, and you see that they almost always have a attorney directory... why not have your
+"go to" approach and use it every time?
 
 ---
 ##### Increasing efficiency
@@ -277,7 +310,6 @@ Example:  configuration management or event subscribers, others can benefit from
   - Code reviews
   - Documenting
   
-
 ---
 ##### Increasing efficiency
 
@@ -295,16 +327,6 @@ Example:  configuration management or event subscribers, others can benefit from
 * Training and education
 * Local events - meetups, camps, etc.
 * Internal training / info share
-
----
-##### Increasing efficiency
-
-## Simplify the work
-
-* Keep code simple
-* Break down complex tasks into manageable chunks
-* Don't over-engineer solutions
-
 
 ---
 ##### Increasing efficiency
@@ -339,20 +361,16 @@ I recommend fixing bugs immediately. Other work currently being built may incorp
 
 Strive for daily production
 
-
 ---
 ##### Keep the team motivated
 
-Don't allow all-nighters
+Work/life balance
 
-* While initially productive, it can be inefficient
+* While initially productive, working too much can be inefficient
  - Increased stress
  - More mistakes/bugs
  - Not sustainable
  
-* Work/life balance
-
-
 ---
 ##### Keep the team motivated
 
@@ -361,22 +379,6 @@ Explain the "Why"
 * "Why am I doing this?" can be de-motivating
 * Perhaps better options are available
 * Helps put this piece into the bigger picture
-
----
-##### Keep the team motivated
-
-Don't micro-manage
-
-note:
-Even if a PM has technical abilities, its really important to let the team architect things 
-and make collective decisions.  Often times a PM that is somewhat technical will try to tell 
-developers how to do something, which shoots themselves in the foot in 2 ways:  
-1) It might not be the best way to do something.  
-2) Morale.  
-
-No experienced dev wants to be micromanaged like that... 
-could lead to them disliking the PM and not working as efficiently.
-
 
 ---
 ##### Keep the team motivated
@@ -404,22 +406,6 @@ note:
 There is sometimes pressure to start building, before scope/requirements are locked down.
 Push back against this when possible. It helps avoid re-work / unscoped work.
 If you need leverage to get sign-off...use this if possible
---- 
-##### Project management helps efficiency
-
-Avoid un-scoped/free work
-
-* Client changes their mind? Track it
-* A tweak here and there may have unintended consequences
-* Ambiguity in scope/contract/assumptions
-
-note:  These things can have an impact on efficiency and team motivation.  When a change is 
-requested, even if it seems minor, let a developer weigh in. Something seemingly simple can have
-a major impact.  Example: Auto-sort vs custom sort.
-
-There isn’t necessarily a need to AVOID un-scoped work altogether… instead, scope changes/additions 
-need to be managed properly.  Expectations need to be set immediately when the PM senses scope change 
-(something else has to be removed or rough equivalence OR we need more time/money to make the change).
 
 ---
 ##### Project management helps efficiency
