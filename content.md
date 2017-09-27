@@ -5,7 +5,7 @@
 # Four Questions
 
 - What types of skills make up an efficient Drupal team?
-- What are some practical ways that a Drupal team can increase productivity?
+- What are some practical ways that a Drupal team can increase efficiency?
 - How can a Drupal team stay motivated and engaged without experiencing burnout?
 - How can project managers help with efficiency?
 
@@ -78,7 +78,7 @@ level when dealing with other developers. Potentially less technical when dealin
 ---
 ##### Soft Skills
 
-## Ownership
+## Taking Ownership
 * Taking ownership of a task or challenge
 * Finding resources to solve problems
   - People
@@ -89,7 +89,6 @@ level when dealing with other developers. Potentially less technical when dealin
 ##### Soft Skills
 
 ## Focus
-
 * Spend effort on right priority at the right time
 * Saying 'No' or 'Not now' to requests
 * Push away distractions
@@ -97,10 +96,8 @@ level when dealing with other developers. Potentially less technical when dealin
 ---
 ##### Soft Skills
 
-## Sees the big picture
-
-* Understands how a task helps reach goals
-* Doesn't operate in a silo
+* Look for examples of these when interviewing candidates
+* Look for opportunities to encourage and strengthen these in current team members
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -112,7 +109,23 @@ level when dealing with other developers. Potentially less technical when dealin
 ## Skills Assessment
 * Be honest - internal use only
 * Identify your team's strengths and weaknesses
+
+---
+##### Assess your Drupal team
+
+## Technical knowledge
+
+* Drupal - get specific
+* Languages, frameworks, other technologies
 * Courses, certifications, awards, etc.
+
+note:
+When assessing Drupal skills, get specific -- More than just backend / frontend for D7 or D8. Ask questions like:
+Do they have knowledge with field formatters, with creating twig templates, with configuration management, with writing 
+event subscribers, with the render array, etc.
+
+For courses and certifications, get a list of these. it can be helpful to highlight these when going after new work. And
+when someone gets a new certification or award, that's something for your whole team to celebrate.
 
 ---
 ##### Assess your Drupal team
@@ -120,8 +133,23 @@ level when dealing with other developers. Potentially less technical when dealin
 ## Domain knowledge
 
 * Industry experience
-* Previous work history
 * Types of clients
+
+note:
+This can include work that people have done in other industries before they worked as a developer. It can also include
+the types of websites/clients that someone has experience building.  These can provide a lot of strategic information
+for your organization when going after new deals or trying to find the right people to staff a new project.
+
+---
+##### Assess your Drupal team
+
+## Identify next steps
+
+* Find ways to improve
+* Know what type of work to go for
+* Know who's a rockstar
+* Create a roadmap and work it
+
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -143,11 +171,9 @@ When there is less waste, there is more capacity to produce.
 ## Before starting to build
 
 * Agree on the work to be done
-    - All on the same page
-    - Have a common nomenclature for items
     - What is in scope?
     - What does done look like?
-    
+    - Have a common nomenclature for items
     
 note:
 Speaking the same language is critical for efficiency in your team. 
@@ -160,11 +186,11 @@ Speaking the same language is critical for efficiency in your team.
     - Resolve as many unanswered questions as possible
     - Content model, roles and permissions
     - Know what Drupal modules to use
-    - Use the right frameworks for the work to be done
+    - Use the right technologies for the work to be done
 
 note: 
 Plan the route before starting your journey. For the build out of a Drupal site, this can include
-panning out content types, taxonomy vocabularies, modules to use, modules to build, roles and 
+planning out content types, taxonomy vocabularies, modules to use, modules to build, roles and 
 permissions, etc. 
  
 ---
@@ -183,7 +209,38 @@ Greater efficiency can be achieved if everyone is using the same tools.
 
 This goes back to being on the same page. 
 
-And this not on a per-project basis, but across projects. If you can lower the amount of ramp-up time spent on a project, or on task swithcing time, you can be more efficient.
+And this not on a per-project basis, but across projects. If you can lower the amount of ramp-up time spent on a project, or on task switching time, you can be more efficient.
+
+---
+##### Increasing efficiency
+
+## Have a common starting point
+
+* Base Drupal installation profile
+* Features for everyone
+* Custom code snippets/scaffolding
+* This is your secret recipe
+
+
+---
+##### Increasing efficiency
+
+## Don't re-invent the wheel
+
+* Avoid doing things totally different each time
+* Leverage the knowledge you have
+* Custom code snippets/scaffolding
+
+note: How different are hero carousels, really? 
+
+---
+##### Increasing efficiency
+
+## Productize your solutions
+
+* Where possible, have pre-build solutions for a fixed price
+* Use that as a base and enhance per customer requirements
+* Caveat: Be aware of contractual issues
 
 ---
 ##### Increasing efficiency
@@ -196,7 +253,7 @@ And this not on a per-project basis, but across projects. If you can lower the a
 
 note:
 This one sounds obvious, but there are a lot of little things that add up quickly.
-Things like doing internal tech support, attending meetings where the develop has no clear role or
+Things like doing internal tech support, attending meetings where the developer has no clear role or
 objective for attending, 
 
 ---
@@ -220,15 +277,6 @@ Example:  configuration management or event subscribers, others can benefit from
   - Code reviews
   - Documenting
   
----
-##### Increasing efficiency
-
-## Minimize Rework
-
-* Fully understand requirements
-* Prototype for customer review
-* Focus on quality
-* Manage expectations
 
 ---
 ##### Increasing efficiency
@@ -257,35 +305,6 @@ Example:  configuration management or event subscribers, others can benefit from
 * Break down complex tasks into manageable chunks
 * Don't over-engineer solutions
 
----
-##### Increasing efficiency
-
-## Have a common starting point
-
-* Base Drupal installation profile
-* Features for everyone
-* Custom code snippets/scaffolding
-* This is your secret recipe
-
----
-##### Increasing efficiency
-
-## Don't re-invent the wheel
-
-* Avoid doing things totally different each time
-* Leverage the knowledge you have
-* Custom code snippets/scaffolding
-
-note: How different are hero carousels, really? 
-
----
-##### Increasing efficiency
-
-## Productize your solutions
-
-* Where possible, have pre-build solutions for a fixed price
-* Use that as a base and enhance per customer requirements
-* Caveat: Be aware of contractual issues
 
 ---
 ##### Increasing efficiency
@@ -333,13 +352,6 @@ Don't allow all-nighters
  
 * Work/life balance
 
----
-##### Keep the team motivated
-
-Transparency
-
-* Keep everyone abreast of the latest information
-* No hidden agendas, side-conversations, or masked motives
 
 ---
 ##### Keep the team motivated
@@ -365,10 +377,6 @@ developers how to do something, which shoots themselves in the foot in 2 ways:
 No experienced dev wants to be micromanaged like that... 
 could lead to them disliking the PM and not working as efficiently.
 
----
-##### Keep the team motivated
-
-Let developers work in their mode
 
 ---
 ##### Keep the team motivated
@@ -376,8 +384,8 @@ Let developers work in their mode
 Developers aren't simply resources
 
 * Don't put developers on 'robot' ticket duty
-* Have 1:1s that aren't specific to the project
-* Check to see if devleopers are happy on the project
+* Check in to see if developers are happy on the project
+* Talk about other stuff with the team--develop rapport
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -411,7 +419,7 @@ a major impact.  Example: Auto-sort vs custom sort.
 
 There isn’t necessarily a need to AVOID un-scoped work altogether… instead, scope changes/additions 
 need to be managed properly.  Expectations need to be set immediately when the PM senses scope change 
-(some else has to be removed or rough equivalence OR we need more time/money to make the change).
+(something else has to be removed or rough equivalence OR we need more time/money to make the change).
 
 ---
 ##### Project management helps efficiency
@@ -444,8 +452,9 @@ Tease out when a developer is having problems
 Transparency with the whole team
 
 * Don't shield the team from the numbers 
+* Keep everyone abreast of the latest information
+* No hidden agendas, side-conversations, or masked motives
 * Not all devs need to be "behind a wall"
-
 
 ---
 ##### Project management helps efficiency
