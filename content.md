@@ -31,17 +31,12 @@ A lot of the concepts described in this presentation address more than one quest
 ## Direct Skills
 Drupal, PHP, CSS, JS, Symfony, Git
 
-note:
-These are pretty straight-forward. These are any key skills that are required for the job. 
-
----
-##### The Basics
-
 ## Related Skills
 Frameworks, DevOps/server management, Search, etc.
 
 note:
-Anything not directly required, but helpful or nice-to-have skills.
+These are pretty straight-forward. These are any key skills that are required for the job. 
+Related skills are anything not directly required, but helpful or nice-to-have skills.
 
 ---
 ## Soft Skills
@@ -77,27 +72,20 @@ Does someone want to get their hands dirty and solve problems?
 ---
 ##### Soft Skills
 
-## Constant Learning
+## Constant Learning and Sharing
 * Growing knowledge and experience to learn at a higher level
 * Proactive vs reactionary
 * Recognizing "I could have done better" and learning how for next time
+* Openly shares knowledge with others
+* Offers help when others are in need
 
 note:
 Someone who is constantly striving to learn more about their craft is better prepared to identify potential problems
 before they become real problems. This proactive response to situations helps minimize re-work down the road when
-reacting to problems.
-
----
-##### Soft Skills
-
-##  Constant Mentoring
-
-* Openly shares knowledge with others
-* Knows others' areas for improvement, offers help
-
-note:
+reacting to problems.  
 Someone that recognizes the value of sharing information with others is an asset to your team. They know that doing so
 elevates all team members which makes your team more knowledgeable and more efficient.
+
 ---
 ##### Soft Skills
 
@@ -131,6 +119,8 @@ media,  or other things that take away from time-on-task is a component of keepi
 
 ---
 ##### Soft Skills
+
+## Take-aways 
 
 * Look for examples of these when interviewing candidates
 * Look for opportunities to encourage and strengthen these in current team members
@@ -189,10 +179,11 @@ for your organization when going after new deals or trying to find the right peo
 ---
 ##### Assess your Drupal team
 
-## Identify next steps
+## Take-aways
 
-* Find ways to improve
 * Know what type of work to go for
+* Find ways to improve
+* Identify next steps
 * Create a roadmap and work it
 
 note:
@@ -202,7 +193,7 @@ type of work to go for, and create your roadmap for leveling-up, work the plan.
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
 
-# Increasing efficiency in your Drupal team
+# Increasing efficiency in your Drupal process
 
 ---
 # Efficiency != Productivity
@@ -355,6 +346,15 @@ I recommend fixing bugs immediately. Other work currently being built may incorp
  break when the bug is fixed.
 
 ---
+##### Increasing efficiency
+
+## Take-aways
+
+* Look for places in your Drupal process that are inefficient
+* Eliminate duplicate or repetitive effort when possible
+* Invest in people, letting them work the work
+
+---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
 
 # Keep the team motivated
@@ -390,6 +390,14 @@ Developers aren't simply resources
 
 * Check in to see if developers are happy on the project
 * Talk about other stuff with the team--develop rapport
+
+---
+##### Keep the team motivated
+
+## Take-aways
+
+* Help developers be productive while maintaining balance
+* Make sure that developers know how their work fits into the big picture
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -441,7 +449,6 @@ Transparency with the whole team
 
 * Don't shield the team from the numbers 
 * Keep everyone abreast of the latest information
-* Not all devs want to be "behind a wall"
 
 ---
 ##### Project management helps efficiency
@@ -454,7 +461,15 @@ Let developers show off their work
  - Direct feedback/conversation can spur discussion and new ideas
 
 ---
-# Takeaways for today
+##### Project management helps efficiency
+
+## Take-aways
+
+* Look at project management process for ways to increase efficiency
+* Work with developers to help them become for efficient in their work
+
+---
+# Take-aways for today
 
 * Know where your Drupal team stands currently related to skills and experience
 * Determine next steps for your Drupal practice to increase efficiency
