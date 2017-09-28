@@ -1,6 +1,11 @@
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
 ### Today I want to talk about how to make your Drupal practice more efficient.
 
+note:
+I don't know that anything I'll cover today will be revolutionary or groundbreaking. But I hope I can provide you with 
+information in such a way that it gives you ideas and actions that you can take with you so that your Drupal practice
+becomes more efficient.
+
 ---
 # Four Questions
 
@@ -10,7 +15,7 @@
 - How can project managers help with efficiency?
 
 note:
-A lot of the concepts described in this presentation address more than one question.
+A lot of the concepts described in this presentation address more than one question. 
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -200,7 +205,6 @@ type of work to go for, and create your roadmap for leveling-up, work the plan.
 # Increasing efficiency in your Drupal team
 
 ---
-
 # Efficiency != Productivity
 
 * Productivity = measure of units produced
@@ -309,6 +313,7 @@ Example:  configuration management or event subscribers, others can benefit from
   - Coding standards
   - Code reviews
   - Documenting
+  - The Drupal way
   
 ---
 ##### Increasing efficiency
@@ -335,7 +340,7 @@ Example:  configuration management or event subscribers, others can benefit from
 
 * Time costs related to task switching
 * Better to time box effort 
-* Prioritize most important work first
+* Group meetings together
 
 ---
 ##### Increasing efficiency
@@ -343,13 +348,11 @@ Example:  configuration management or event subscribers, others can benefit from
 ## Fix bugs immediately
 
 * Building on top of bugs, causes more bugs
-* Fix bugs before you have an infestation
+* "We'll fix it in QA/UAT" is a dangerous phrase
 
 note:
 I recommend fixing bugs immediately. Other work currently being built may incorporate the bug and 
  break when the bug is fixed.
- 
-"We'll fix it in QA/UAT" is a dangerous phrase.
 
 ---
 <!-- .slide: data-background="#000" data-background-image="img/dark-bg.jpg" data-background-size="100% 100%"-->
@@ -377,15 +380,14 @@ Work/life balance
 Explain the "Why"
 
 * "Why am I doing this?" can be de-motivating
-* Perhaps better options are available
 * Helps put this piece into the bigger picture
+* Perhaps better options are available
 
 ---
 ##### Keep the team motivated
 
 Developers aren't simply resources
 
-* Don't put developers on 'robot' ticket duty
 * Check in to see if developers are happy on the project
 * Talk about other stuff with the team--develop rapport
 
@@ -412,7 +414,7 @@ If you need leverage to get sign-off...use this if possible
 
 Reign in ambitious developers
 
-* Developers sometimes advocate for scope creep
+* Developers sometimes advocate for experimental approaches that can take away from efficiency
    - "We could do it this other way"
    - Want to try something new
   
@@ -439,8 +441,7 @@ Transparency with the whole team
 
 * Don't shield the team from the numbers 
 * Keep everyone abreast of the latest information
-* No hidden agendas, side-conversations, or masked motives
-* Not all devs need to be "behind a wall"
+* Not all devs want to be "behind a wall"
 
 ---
 ##### Project management helps efficiency
@@ -453,11 +454,17 @@ Let developers show off their work
  - Direct feedback/conversation can spur discussion and new ideas
 
 ---
-# some clever summary
----
-# Thank you
+# Takeaways for today
+
+* Know where your Drupal team stands currently related to skills and experience
+* Determine next steps for your Drupal practice to increase efficiency
+* Implement changes to your Drupal process that facilitates better efficiency
+
 ---
 <!-- .slide: data-background-image="img/sprint.png" data-background-size="100% 100%"-->
 
 ---
 <!-- .slide: data-background-image="img/evaluation.png" data-background-size="100% 100%"-->
+
+---
+# Thank you
